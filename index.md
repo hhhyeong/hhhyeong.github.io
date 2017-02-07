@@ -37,4 +37,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
-###오늘의 포스팅은 떠나간 혜정언니에게 한마디 하겠습니다.
+### 오늘의 포스팅은 떠나간 혜정언니에게 한마디 하겠습니다.
+
+나도데려가..
