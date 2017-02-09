@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # 정혜영>.<
 ## 안녕안녕 모두들 환영환영
-### 코딩천재의 블로그에 오신걸 환영합니다.
+### 기억안날뻔 ㅋㅋ휴
 
 - Bulleted
 - List
@@ -40,3 +40,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ### 오늘의 포스팅은 떠나간 혜정언니에게 한마디 하겠습니다.
 
 나도데려가..
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
