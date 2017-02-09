@@ -41,5 +41,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 나도데려가..
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+### ㅇ어려워..............커밋성공점;;
