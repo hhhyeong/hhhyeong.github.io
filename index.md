@@ -42,3 +42,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 나도데려가..
 
 ### ㅇ어려워..............커밋성공점;;
+
+###세훈이 아직도 헤매니?ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ훟
